@@ -1,0 +1,4 @@
+#noindex_page_checkbox.components-checkbox-control__input[type=checkbox]:checked{
+   background: #3858e9 !important;
+   border-color: #3858e9 !important;
+}
